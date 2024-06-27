@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+
+<book>
+	<chapter>
+		<chapternum>1</chapternum>
+		<chaptername>J2EE</chaptername>
+	</chapter>
+
+	<chapter>
+		<chapternum>2</chapternum>
+		<chaptername>Complete Reference</chaptername>
+	</chapter>
+</book>
