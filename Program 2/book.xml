@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE book SYSTEM "book.dtd">
+
+<book>
+    <chapter>
+        <chapNum>1</chapNum>
+        <chapTitle>Introduction to J2EE</chapTitle>
+    </chapter>
+
+    <chapter>
+        <chapNum>2</chapNum>
+        <chapTitle>Introduction to Servlet</chapTitle>
+    </chapter>
+    
+    <chapter>
+        <chapNum>3</chapNum>
+        <chapTitle>Introduction to JSP</chapTitle>
+    </chapter>
+</book>
