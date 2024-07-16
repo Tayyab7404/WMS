@@ -6,6 +6,6 @@
     4. Character Class
     5. Attribute Class
 ### Programs:
-    1. Write a program to access an XML document using DOM Parser (Java API).
-    2. Create an XML document - valid XML without
-    3. Write a Java program using DOM classes and methods to parse and process the data.
+    1. Write a program to access an XML document using DOM Parser.
+    2. Write a program to access an XML document using SAX Parser.
+    3. Write a program to implement RMI server and RMI client.
