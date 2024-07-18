@@ -1,3 +1,5 @@
+// Write a program to access an XML Document using SAX Parser (Java API):
+
 import java.io.*;
 import javax.xml.parsers.*;
 import org.xml.sax.*;
