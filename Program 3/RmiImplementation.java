@@ -16,4 +16,3 @@ public class RmiImplementation extends UnicastRemoteObject implements RmiInterfa
     		return l * b;
 	}
 }
-
