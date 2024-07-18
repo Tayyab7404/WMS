@@ -1,4 +1,4 @@
-// Write a program to access an XMLdocument using DOM Parser (Java API):
+// Write a program to access an XML Document using DOM Parser (Java API):
 
 import java.io.*;
 import javax.xml.parsers.*;
@@ -26,8 +26,8 @@ public class DomBookParser
             		{
                 		Element chapter = (Element)chapternodes.item(i);
                 
-                		NodeList numberlist = chapter.getElementsByTagName("chapternum");
-                		NodeList namelist = chapter.getElementsByTagName("chaptername");
+                		NodeList numberlist = chapter.getElementsByTagName("chapNum");
+                		NodeList namelist = chapter.getElementsByTagName("chapTitle");
 
                 		Text number = (Text)numberlist.item(0).getFirstChild();
                 		Text name = (Text)namelist.item(0).getFirstChild();
